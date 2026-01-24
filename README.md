@@ -7,6 +7,7 @@ solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -25,6 +26,7 @@ solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -34,6 +36,7 @@ solutions
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
