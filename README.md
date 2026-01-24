@@ -6,6 +6,7 @@ solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ solutions
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ketki-mude/LeetCode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
