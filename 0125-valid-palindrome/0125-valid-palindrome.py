@@ -1,16 +1,27 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         
-        # clean_string=""
-        # for char in s:
-        #     if char.isalnum():
-        #         clean_string+= char.lower()
-        clean_s = "".join([c.lower() for c in s if c.isalnum()])
-        reverse_string=clean_s[::-1]
+        clean_s= "".join([char.lower() for char in s if char.isalnum()])
+    
+
+        # reverse_string=clean_s[::-1]
         
-        if reverse_string==clean_s:
-            return True
+        # if reverse_string==clean_s:
+        #     return True
         
-        return False
+        # return False
+
+        left=0
+        right=len(clean_s)-1
+        
+        while left < right:
+            if clean_s[left]!=clean_s[right]: 
+                return False
+            left+=1
+            right-=1
+        return True
+        
+
+
     
         
