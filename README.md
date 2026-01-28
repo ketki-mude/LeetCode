@@ -11,6 +11,7 @@ solutions
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ solutions
 | [0151-reverse-words-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ketki-mude/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ solutions
 | [0242-valid-anagram](https://github.com/ketki-mude/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
