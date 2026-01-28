@@ -2,12 +2,19 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 
         unique_dict={}
-        for ele in strs:
-            sort_element = "".join(sorted(ele))
-            if sort_element not in unique_dict:
-                unique_dict[sort_element] = [ele]
+
+        for word in strs:
+            freq_array=[0]*26
+            for letters in word:
+                index = (ord(letters)-ord("a"))-1
+                freq_array[index]+=1
+            
+            freq_tuple= tuple(freq_array)
+            
+            if freq_tuple not in unique_dict:
+                unique_dict[freq_tuple] = [word]
             else:
-                unique_dict[sort_element].append(ele)
+                unique_dict[freq_tuple].append(word)
 
         #print(unique_dict)
         return_list = []
