@@ -9,14 +9,15 @@ class Solution:
             else:
                 unique_dict[sort_element].append(ele)
 
-        #print(unique_dict)
-        return_list = []
-        for key in unique_dict:
-            return_list.append(unique_dict[key])
+        return list(unique_dict.values())
 
-        #print(return_list)
-        return return_list
-            
+        # #print(unique_dict)
+        # return_list = []
+        # for key in unique_dict:
+        #     return_list.append(unique_dict[key])
+
+        # #print(return_list)
+        # return return_list
 
 
 
