@@ -28,6 +28,7 @@ solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ketki-mude/LeetCode/tree/master/0125-valid-palindrome) |
@@ -42,6 +43,7 @@ solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ketki-mude/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -99,4 +101,8 @@ solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
