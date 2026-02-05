@@ -9,6 +9,7 @@ class Solution:
             else:
                 magazine_count[char]=1
 
+                
         for char in ransomNote:
             if char not in magazine_count or magazine_count[char]==0:
                 return False
