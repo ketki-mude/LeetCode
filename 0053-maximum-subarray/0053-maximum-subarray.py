@@ -7,7 +7,6 @@ class Solution:
         print(current_sum)
         
         for i in range(1, len(nums)):
-
             current_sum = max(nums[i], current_sum + nums[i])
   
             max_sum = max(max_sum, current_sum)
