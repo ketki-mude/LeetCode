@@ -3,8 +3,6 @@ class Solution:
 
         current_sum=nums[0]
         max_sum=nums[0]
-
-        print(current_sum)
         
         for i in range(1, len(nums)):
             current_sum = max(nums[i], current_sum + nums[i])
