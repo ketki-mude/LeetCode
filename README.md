@@ -8,6 +8,7 @@ solutions
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ketki-mude/LeetCode/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -105,4 +107,8 @@ solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
