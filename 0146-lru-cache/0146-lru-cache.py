@@ -3,13 +3,12 @@ class Node:
         self.key, self.val = key, val
         self.prev = self.next = None
 
-# 2. Now LRUCache knows what a 'Node' is
 class LRUCache:
     def __init__(self, capacity: int):
         self.cap = capacity
-        self.cache = {}  # Map key -> Node
+        self.cache = {}  
         
-        # Left (LRU) and Right (MRU) dummy nodes
+    
         self.left, self.right = Node(0, 0), Node(0, 0)
         self.left.next, self.right.prev = self.right, self.left
 
