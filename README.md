@@ -47,6 +47,7 @@ solutions
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ketki-mude/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
@@ -113,4 +114,16 @@ solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ketki-mude/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
