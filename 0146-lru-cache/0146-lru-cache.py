@@ -1,4 +1,3 @@
-# 1. Define the Node class FIRST
 class Node:
     def __init__(self, key, val):
         self.key, self.val = key, val
