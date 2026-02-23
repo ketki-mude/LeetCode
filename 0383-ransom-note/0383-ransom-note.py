@@ -15,7 +15,6 @@ class Solution:
                 return False
             else:
                 magazine_count[char]-=1
-        
         return True
 
 
