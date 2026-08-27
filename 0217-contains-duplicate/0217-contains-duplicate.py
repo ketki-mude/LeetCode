@@ -1,15 +1,20 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-
-        elements={}
+        unique_nums={}
 
         for num in nums:
-            elements[num]=None
+            if num not in unique_nums:
+                unique_nums[num]=1
+            else:
+                unique_nums[num] += 1
 
-        if len(nums)==len(elements):
-            return False
+        for num in unique_nums:
+            if unique_nums[num]>1:
+                return True
+            else:
+                continue
+           
+        return False
 
-        return True
-
-       
+            # {2:1,14:1,18:1,22:2}
         
