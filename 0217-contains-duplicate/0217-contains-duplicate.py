@@ -1,9 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        unique_nums={}
-
-        for num in nums:
-            unique_nums[num]= None
+        unique_nums= dict.fromkeys(nums, 0)
         
         if len(nums)==len(unique_nums):
             return False
