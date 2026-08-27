@@ -10,7 +10,7 @@ class Solution:
             key= target - nums[i]
 
             if key in unique_dict and i!= unique_dict[key]:
-                return (i,unique_dict[key])
+                return [i,unique_dict[key]]
 
         
 
