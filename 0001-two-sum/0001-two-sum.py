@@ -1,14 +1,18 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-        output=[]
-        
 
-        for i in range(0,len(nums)):
-            for j in range(i+1,len(nums)):
-                # print(f"i,j: {i,j}")
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+        unique_dict = {}
+
+        for i in range(0, len(nums)):
+            unique_dict[nums[i]] = i
+
+        for i in range (0, len(nums)):
+            key = target - nums[i]
+
+            if key in unique_dict and i !=unique_dict[key]:
+                return [i, unique_dict[key]]
+
 
 
             
