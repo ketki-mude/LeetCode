@@ -1,41 +1,46 @@
-class Node:
-    def __init__(self, key, val):
-        self.key, self.val = key, val
-        self.prev = self.next = None
-
 class LRUCache:
+
     def __init__(self, capacity: int):
-        self.cap = capacity
-        self.cache = {}  
-        
-    
-        self.left, self.right = Node(0, 0), Node(0, 0)
-        self.left.next, self.right.prev = self.right, self.left
-
-    def _remove(self, node):
-        prev, nxt = node.prev, node.next
-        prev.next, nxt.prev = nxt, prev
-
-    def _insert(self, node):
-        prev, nxt = self.right.prev, self.right
-        prev.next = nxt.prev = node
-        node.next, node.prev = nxt, prev
+        self.capacity = capacity
+        self.cache={}
 
     def get(self, key: int) -> int:
-        if key in self.cache:
-            self._remove(self.cache[key])
-            self._insert(self.cache[key])
-            return self.cache[key].val
-        return -1
+        if key not in self.cache:
+            
+            return -1
 
+        else:
+            self.cache[key][1]=time.time()
+            
+            return self.cache[key][0]
+    
     def put(self, key: int, value: int) -> None:
-        if key in self.cache:
-            self._remove(self.cache[key])
-        
-        self.cache[key] = Node(key, value)
-        self._insert(self.cache[key])
 
-        if len(self.cache) > self.cap:
-            lru = self.left.next
-            self._remove(lru)
-            del self.cache[lru.key]
+        if key in self.cache:
+            self.cache[key]=[value,time.time()]
+            return
+
+        if len(self.cache) < self.capacity:
+            self.cache[key]= [value,time.time()]
+                  
+        else:
+            min_timestamp = float('inf')
+            key_of_min_time= None
+
+            for keys in self.cache:
+                timestamp= self.cache[keys][1]
+                
+                if timestamp<min_timestamp:
+                    min_timestamp=timestamp
+
+                    key_of_min_time= keys
+   
+            del self.cache[key_of_min_time]
+            
+            self.cache[key]=[value,time.time()]
+
+            
+
+
+
+
