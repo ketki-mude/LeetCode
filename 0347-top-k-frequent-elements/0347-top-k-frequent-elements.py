@@ -1,42 +1,50 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        if len(nums) == 1 and k == 1:
-            return [nums[0]]
 
-        elements_count = {}
-
+        store_count={}
+        
         for num in nums:
-            if num in elements_count:
-                elements_count[num] += 1
+            if num not in store_count:
+                store_count[num]=1
+
             else:
-                elements_count[num] = 1 
+                store_count[num]+=1
 
-        # print(elements_count)
-
-        count_list = (len(nums)+1) * [0] # frequency list
-        # print(count_list)
-        for counts in elements_count:
-            # print("element: ", counts, "count: ", elements_count[counts])
-            if count_list[elements_count[counts]] != 0:
-                count_list[elements_count[counts]].append(counts)
+        frequency = [0] * (len(nums) + 1)
+        
+        for num in store_count:
+            count=store_count[num]
+            
+            if frequency[count]==0:
+                frequency[count]=[num]
             else:
-                count_list[elements_count[counts]] = [counts]
+                frequency[count].append(num)
 
-        # print(count_list)
+        print(store_count)
+        print(frequency)
 
-        return_list = []
+        returned_array=[]
+        count=0
+        for i in range(len(frequency)-1,0,-1):
+            if count<k and frequency[i]!=0:
+                returned_array.extend(frequency[i])
+                count+=1
+
+        final_array=[]
+        #returned_array=[1,2,3]
+        for i in range(0,k):
+            final_array.append(returned_array[i])
+
+        return final_array
+     
+       
+
+
+    
+
         
-        for i in range(len(nums), -1, -1):
-            if count_list[i] != 0 and k > 0:
-                for num in count_list[i]:
-                    return_list.append(num)
-                    k -= 1
 
-        # print(return_list)
-        return return_list
+
+
         
-        # print("return_list: ", return_list)
-
-
-
-
+        
