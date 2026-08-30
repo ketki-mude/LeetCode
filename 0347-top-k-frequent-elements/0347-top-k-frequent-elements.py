@@ -20,8 +20,7 @@ class Solution:
             else:
                 frequency[count].append(num)
 
-        print(store_count)
-        print(frequency)
+    
 
         returned_array=[]
         count=0
@@ -30,12 +29,7 @@ class Solution:
                 returned_array.extend(frequency[i])
                 count+=1
 
-        final_array=[]
-        #returned_array=[1,2,3]
-        for i in range(0,k):
-            final_array.append(returned_array[i])
-
-        return final_array
+        return returned_array[:k]
      
        
 
