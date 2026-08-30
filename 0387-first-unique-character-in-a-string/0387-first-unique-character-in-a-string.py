@@ -1,34 +1,26 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
 
-        strings={}
+        frequency_string={}
+
         for char in s:
-            if char in strings:
-                strings[char]+=1
+            if char in frequency_string:
+                frequency_string[char]+=1
             else:
-                strings[char]=1
-        
+                frequency_string[char]=1
+
+        print(frequency_string)
         for i in range(0,len(s)):
-            if strings[s[i]]==1:
+            if frequency_string[s[i]]==1:
                 return i
 
         return -1
 
 
-            
-
-    
-        
 
 
-    
 
 
-      
-        
 
-        
 
-                
-        
         
