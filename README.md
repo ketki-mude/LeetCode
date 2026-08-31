@@ -124,6 +124,7 @@ solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ketki-mude/LeetCode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -132,4 +133,8 @@ solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ketki-mude/LeetCode/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ketki-mude/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
