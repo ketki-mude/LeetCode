@@ -12,6 +12,7 @@ solutions
 | [0056-merge-intervals](https://github.com/ketki-mude/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ketki-mude/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ketki-mude/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ solutions
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ketki-mude/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ketki-mude/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -94,10 +96,12 @@ solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -106,6 +110,7 @@ solutions
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
