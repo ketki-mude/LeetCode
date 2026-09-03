@@ -12,7 +12,7 @@ class Solution:
         def dfs(root,remaining,path):
 
             if root is None:
-                return False
+                return
             
             path.append(root.val)
 
@@ -24,6 +24,13 @@ class Solution:
             dfs(root.right,remaining-root.val,path)
            
             path.pop()
+
+
+
+
+
+
+            
 
         dfs(root,targetSum, [])
         return result
