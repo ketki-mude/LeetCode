@@ -146,10 +146,12 @@ solutions
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -158,4 +160,9 @@ solutions
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
