@@ -15,14 +15,14 @@ class Solution:
         if root.right is None and root.left is None:
             return targetSum==root.val
 
-        remaining = targetSum - root.val 
+        else:
+            remaining = targetSum - root.val 
 
-        return(
-
-            self.hasPathSum(root.left,remaining)
-            or
-            self.hasPathSum(root.right,remaining)
-        )
+            return(
+                self.hasPathSum(root.left,remaining)
+                or
+                self.hasPathSum(root.right,remaining)
+            )
 
 
 
