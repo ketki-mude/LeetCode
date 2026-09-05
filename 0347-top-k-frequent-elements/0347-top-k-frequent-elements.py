@@ -17,9 +17,6 @@ class Solution:
             else:
                 freq[index].append(key)
 
-        print(freq)
-        print(dict_count)
-
         returened_list=[]
 
         for i in range(len(freq)-1,0,-1):
