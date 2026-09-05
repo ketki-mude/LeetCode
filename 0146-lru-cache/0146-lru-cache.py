@@ -1,46 +1,49 @@
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.cache={}
+        self.lrucap=capacity
+        self.lrudict={}
 
+        
     def get(self, key: int) -> int:
-        if key not in self.cache:
+        if key in self.lrudict:
             
-            return -1
-
+            self.lrudict[key][1]=time.time()
+            return self.lrudict[key][0]
         else:
-            self.cache[key][1]=time.time()
-            
-            return self.cache[key][0]
-    
+            return -1
+        
+
     def put(self, key: int, value: int) -> None:
 
-        if key in self.cache:
-            self.cache[key]=[value,time.time()]
-            return
+        
+        if key in self.lrudict:
+            self.lrudict[key]=[value,time.time()]
 
-        if len(self.cache) < self.capacity:
-            self.cache[key]= [value,time.time()]
-                  
         else:
-            min_timestamp = float('inf')
-            key_of_min_time= None
-
-            for keys in self.cache:
-                timestamp= self.cache[keys][1]
+            if len(self.lrudict)< self.lrucap:
+                self.lrudict[key]=[value,time.time()]
+            else:
+                min_key=None
+                min_timestamp=float(inf)
+                for element in self.lrudict:
+                    if self.lrudict[element][1]<min_timestamp:
+                        min_timestamp=self.lrudict[element][1]
+                        min_key=element
                 
-                if timestamp<min_timestamp:
-                    min_timestamp=timestamp
+                del self.lrudict[min_key]
 
-                    key_of_min_time= keys
-   
-            del self.cache[key_of_min_time]
-            
-            self.cache[key]=[value,time.time()]
+                self.lrudict[key]=[value,time.time()]
 
-            
+                    
 
+        
+        
 
+        
 
 
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
