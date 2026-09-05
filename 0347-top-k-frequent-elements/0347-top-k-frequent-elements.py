@@ -1,44 +1,45 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        dict_count={}
 
-        store_count={}
-        
         for num in nums:
-            if num not in store_count:
-                store_count[num]=1
-
+            if num in dict_count :
+                dict_count[num]+=1
             else:
-                store_count[num]+=1
-
-        frequency = [0] * (len(nums) + 1)
+                dict_count[num]=1
         
-        for num in store_count:
-            count=store_count[num]
+        freq = [None]*(len(nums)+1)
+
+        for key in dict_count:
+            index=dict_count[key]
+            if freq[index] is None:
+                freq[index]=[key]
+            else:
+                freq[index].append(key)
+
+        print(freq)
+        print(dict_count)
+
+        returened_list=[]
+
+        for i in range(len(freq)-1,0,-1):
+            if freq[i]==None:
+                continue
+            else:
+                if len(returened_list) <= k:
+                    returened_list.extend(freq[i])
+                else:
+                    break
+                
+        return returened_list[:k]
+
+
+                    
+
+
+
             
-            if frequency[count]==0:
-                frequency[count]=[num]
-            else:
-                frequency[count].append(num)
-
-    
-
-        returned_array=[]
-        count=0
-        for i in range(len(frequency)-1,0,-1):
-            if count<k and frequency[i]!=0:
-                returned_array.extend(frequency[i])
-                count+=1
-
-        return returned_array[:k]
-     
-       
-
-
-    
-
-        
 
 
 
-        
         
