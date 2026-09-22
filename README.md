@@ -7,6 +7,7 @@ solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ketki-mude/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ketki-mude/LeetCode/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@ solutions
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ketki-mude/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
@@ -165,4 +167,8 @@ solutions
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ketki-mude/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
