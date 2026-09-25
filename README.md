@@ -15,6 +15,7 @@ solutions
 | [0169-majority-element](https://github.com/ketki-mude/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ketki-mude/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ketki-mude/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ketki-mude/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ketki-mude/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -171,4 +172,8 @@ solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ketki-mude/LeetCode/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ketki-mude/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
