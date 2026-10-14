@@ -39,6 +39,7 @@ solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ketki-mude/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ketki-mude/LeetCode/tree/master/0125-valid-palindrome) |
@@ -155,6 +156,7 @@ solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ketki-mude/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ketki-mude/LeetCode/tree/master/0155-min-stack) |
 ## Tree
 |  |
@@ -195,4 +197,8 @@ solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ketki-mude/LeetCode/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ketki-mude/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
