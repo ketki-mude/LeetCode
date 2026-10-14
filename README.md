@@ -33,6 +33,7 @@ solutions
 | [0283-move-zeroes](https://github.com/ketki-mude/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ketki-mude/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/ketki-mude/LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -48,6 +49,7 @@ solutions
 | [0383-ransom-note](https://github.com/ketki-mude/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ketki-mude/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ketki-mude/LeetCode/tree/master/0567-permutation-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ketki-mude/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@ solutions
 | [0383-ransom-note](https://github.com/ketki-mude/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ketki-mude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ketki-mude/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ketki-mude/LeetCode/tree/master/0567-permutation-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ketki-mude/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketki-mude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ketki-mude/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ketki-mude/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
