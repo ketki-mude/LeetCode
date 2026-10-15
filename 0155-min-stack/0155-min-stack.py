@@ -13,7 +13,7 @@ class MinStack:
             self.minstack.append(value)
 
         else:
-            min_value=min(self.stack[-1],self.minstack[-1])
+            min_value=min(value,self.minstack[-1])
         
             self.minstack.append(min_value)
 
