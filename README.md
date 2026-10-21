@@ -21,6 +21,7 @@ solutions
 | [0283-move-zeroes](https://github.com/ketki-mude/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ketki-mude/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/ketki-mude/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ketki-mude/LeetCode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ solutions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/ketki-mude/LeetCode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
