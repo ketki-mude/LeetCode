@@ -23,6 +23,7 @@ solutions
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ketki-mude/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ketki-mude/LeetCode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ketki-mude/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -79,6 +80,7 @@ solutions
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ketki-mude/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ketki-mude/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
