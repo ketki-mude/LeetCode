@@ -8,6 +8,7 @@ solutions
 | ------- |
 | [0001-two-sum](https://github.com/ketki-mude/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ketki-mude/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ketki-mude/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ketki-mude/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ketki-mude/LeetCode/tree/master/0053-maximum-subarray) |
@@ -78,6 +79,7 @@ solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ketki-mude/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ketki-mude/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ketki-mude/LeetCode/tree/master/0875-koko-eating-bananas) |
