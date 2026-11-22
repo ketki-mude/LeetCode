@@ -1,25 +1,11 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
+    def moveZeroes(self, nums: list[int]) -> None:
+        left = 0
 
-        i=0
-        j=0
+        for right in range(len(nums)):
+            if nums[right] != 0:
+                temp = nums[left]
+                nums[left] = nums[right]
+                nums[right] = temp
 
-        for i in range(0,len(nums)):
-            if nums[i]!=0:
-                temp = nums[i]
-                nums[i] = nums[j]
-                nums[j] = temp
-    
-                j += 1
-
-
-                
-        
-        
-            
-
-       
-        
+                left += 1
