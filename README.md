@@ -27,6 +27,7 @@ solutions
 | [0875-koko-eating-bananas](https://github.com/ketki-mude/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/ketki-mude/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ketki-mude/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ketki-mude/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@ solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ketki-mude/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/ketki-mude/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
 | ------- |
