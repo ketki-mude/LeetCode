@@ -167,6 +167,7 @@ solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ketki-mude/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ketki-mude/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ketki-mude/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ketki-mude/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -174,11 +175,13 @@ solutions
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ketki-mude/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ketki-mude/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ solutions
 | ------- |
 | [0112-path-sum](https://github.com/ketki-mude/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ketki-mude/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ketki-mude/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
