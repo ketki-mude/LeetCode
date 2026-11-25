@@ -150,6 +150,7 @@ solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ketki-mude/LeetCode/tree/master/0146-lru-cache) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ketki-mude/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -225,4 +226,8 @@ solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ketki-mude/LeetCode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ketki-mude/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
